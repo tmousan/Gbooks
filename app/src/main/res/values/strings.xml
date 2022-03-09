@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GBooks</string>
+    <string name="description">Descrição</string>
+    <string name="title">Titulo</string>
+    <string name="source">Fonte</string>
+    <string name="published_at">Publicado em:</string>
+    <string name="favorite">Favoritos</string>
+    <string name="search_menu">Pesquisar…</string>
+    <string name="search_query_hint">Pesquise livros</string>
+    <string name="book_saved_successful">Livro salvo com sucesso!</string>
+    <string name="book_delete_successful">Livro deletado com sucesso</string>
+    <string name="undo">desfazer</string>
+</resources>
